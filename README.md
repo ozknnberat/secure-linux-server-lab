@@ -58,10 +58,8 @@ Erişim: Admin yetkileriyle sisteme giriş yapıldı ve normal kullanıcıların
 Bu proje ve dokümantasyon tamamen eğitim amaçlıdır. Burada gösterilen teknikler, yalnızca sahibi olduğunuz veya test izniniz olan sistemler üzerinde (Laboratuvar ortamları, Bug Bounty programları vb.) kullanılmalıdır. İzinsiz sistemlere saldırı yapmak suçtur.
 
 🔗 İletişim:
-
 Berat Özkan - Cloud Computing & DevSecOps Student
 ozknnberat7@gmail.com
 
 LinkedIn Profilim:
-
 https://www.linkedin.com/in/ozknnberat/
