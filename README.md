@@ -53,12 +53,15 @@ Sonuç: Sistem, ' karakteri ile e-posta sorgusunu kapattı ve OR 1=1 koşulu her
 
 Erişim: Admin yetkileriyle sisteme giriş yapıldı ve normal kullanıcıların erişemeyeceği yönetim paneli ile hassas verilere ulaşıldı.
 
-⚠️ Yasal Uyarı (Disclaimer)
+⚠️ Yasal Uyarı (Disclaimer):
+
 Bu proje ve dokümantasyon tamamen eğitim amaçlıdır. Burada gösterilen teknikler, yalnızca sahibi olduğunuz veya test izniniz olan sistemler üzerinde (Laboratuvar ortamları, Bug Bounty programları vb.) kullanılmalıdır. İzinsiz sistemlere saldırı yapmak suçtur.
 
-🔗 İletişim
+🔗 İletişim:
+
 Berat Özkan - Cloud Computing & DevSecOps Student
 ozknnberat7@gmail.com
 
-LinkedIn Profilim
+LinkedIn Profilim:
+
 https://www.linkedin.com/in/ozknnberat/
